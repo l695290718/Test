@@ -128,7 +128,7 @@
           <mxGeometry x="950" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HR8WFGy64bs_LNmVH5kY-26" value="IT权限集设计" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="950" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HR8WFGy64bs_LNmVH5kY-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="HR8WFGy64bs_LNmVH5kY-48" target="HR8WFGy64bs_LNmVH5kY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
